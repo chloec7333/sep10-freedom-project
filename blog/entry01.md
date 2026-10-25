@@ -12,11 +12,11 @@ I am curently at the stage of defining the problem in the engineering design pro
 ## Skills
 Some skills I have learned from this assignment is **logical reasoning** and **how to google**. 
 
-####Logical Reasoning
-One skill I learned while working on this project is logical reasoning because while I was deciding on a topic I had to use logical reasoning to narrow it down to one topic. 
+#### Logical Reasoning
+One skill I learned while working on this project is logical reasoning because while I was deciding on a topic I had to use logical reasoning to narrow it down to one topic. For example, when I was thinking between my top three topic, I thought which one would be most important globally and which one would be good to inform people about. Health care is definitely important but it's more common and more talked about than neurology, and astronomy, even though is fascinating and can be important, not many people think about it on a daily basis. And towards the end, I ultimately narrowed it down to neuroscience after thinking about my career in the future. So essentially, I used different factors to reason and come to a conclusion.
 
-####How to Google
-While researching for this project, 
+#### How to Google
+While researching for this project, we had to search on google for different articles in order to learn more about our different topics. In order to find accurate and specific articles that we wanted, we needed key words like "technology" and "innovations". An example from when I was researching about neuroscience is when I searched up "nueroscience computer science", but the aricles were not really what I was looking for. It gave more articles about computational nueroscience, but I was looking more for the innovations and technology that is used in neuroscience. So I changed my search to "neuroscience and technology" which gave me results that I was hoping to find.
 
 ## Next Steps
 My next step is to start researching the inovations we currently have in the neuroscience field, which I hope to be exciting and inetersting!
