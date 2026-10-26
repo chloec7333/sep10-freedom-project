@@ -12,6 +12,9 @@ Topic: **Neuroscience**
   * Neuronify allows you to investigate how neurons and neural networks behave. Use it to explore connections between neurons and how changes to a single connection can affect entire networks and lead to behavioural changes.
   * Available on Google play and apple app store
   * It is free
+  * Users can learn neurons and neural networks in our brain.
+  * Allows the user to easily create and explore neural networks in a plug-and-play simulation environment.
+  * Designed for iPad. Not verified for MacOS.
   * [image text](image URL)
 * Google search: "Neuroscience softwares"
 * https://www.cnsorg.org/software
