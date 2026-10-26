@@ -13,7 +13,7 @@ Topic: **Neuroscience**
   * Available on Google play and apple app store
   * It is free
   * [image text](image URL)
-*Google search: "Neuroscience softwares"
+* Google search: "Neuroscience softwares"
 * https://www.cnsorg.org/software
 ##### Hardware
 * Tech
