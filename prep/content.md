@@ -9,7 +9,6 @@ Topic: **Neuroscience**
 ##### Software
 * Google Search: "Neuroscience apps"
 * 1st app: **Neuronify**
-  *
   * Neuronify allows you to investigate how neurons and neural networks behave. Use it to explore connections between neurons and how changes to a single connection can affect entire networks and lead to behavioural changes.
   * Available on Google Play and the Apple App Store
   * It is free
