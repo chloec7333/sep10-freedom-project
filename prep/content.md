@@ -16,7 +16,7 @@ Topic: **Neuroscience**
   * Allows the user to easily create and explore neural networks in a plug-and-play simulation environment.
   * Designed for iPad. Not verified for macOS.
   * Available on Windows and iOS.
-  * ![Example of Neuronify image](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fovilab.net%2Fneuronify%2F2017%2F06%2F15%2Fneuronify-1-2-released%2F&ved=0CBcQjRxqFwoTCPDE673N2JcDFQAAAAAdAAAAABA7&opi=89978449)
+  * (https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fovilab.net%2Fneuronify%2F2017%2F06%2F15%2Fneuronify-1-2-released%2F&ved=0CBcQjRxqFwoTCPDE673N2JcDFQAAAAAdAAAAABA7&opi=89978449)
 
 * Google search: "Neuroscience software"
 * 
