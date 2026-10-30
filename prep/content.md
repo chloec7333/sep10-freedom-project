@@ -20,7 +20,9 @@ Topic: **Neuroscience**
 
 * Google search: "Neuroscience software"
 * 2nd app: **The Journal of Neuroscience**
-   *Access to the official journal of the Society for Neuroscience through this app, with published papers covering a range of topics related to the nervous system.
+   *Access to the official journal of the Society for Neuroscience through this app.
+   *Published papers covering a range of topics related to the nervous system.
+   * available for iPad, not verified for MacOS
 *3rd app: **Neuroscience**
   * https://apps.apple.com/us/app/neuroscience/id6752828076
 ##### Hardware
