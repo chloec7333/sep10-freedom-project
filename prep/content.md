@@ -19,7 +19,10 @@ Topic: **Neuroscience**
   * https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fovilab.net%2Fneuronify%2F2017%2F06%2F15%2Fneuronify-1-2-released%2F&ved=0CBcQjRxqFwoTCPDE673N2JcDFQAAAAAdAAAAABA7&opi=89978449
 
 * Google search: "Neuroscience software"
-* 
+* 2nd app: **The Journal of Neuroscience**
+   *Access to the official journal of the Society for Neuroscience through this app, with published papers covering a range of topics related to the nervous system.
+*3rd app: **Neuroscience**
+  * https://apps.apple.com/us/app/neuroscience/id6752828076
 ##### Hardware
 * Tech
   * Detail
