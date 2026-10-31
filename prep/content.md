@@ -23,8 +23,7 @@ Topic: **Neuroscience**
     * Access to the official journal of the Society for Neuroscience through this app.
     * Published papers covering a range of topics related to the nervous system.
     * Available for iPad, not verified for macOS
-* 3rd app: **Neuroscience**
-   * https://apps.apple.com/us/app/neuroscience/id6752828076
+* 3rd app: 
 ##### Hardware
 * Tech
   * Detail
