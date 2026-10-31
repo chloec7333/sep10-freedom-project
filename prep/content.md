@@ -2,7 +2,7 @@
 Topic: **Neuroscience**
 
 ## Overview/Introduction/Context
-* Simply put, neuroscience is the study of the nervous system that ranges from the structure to function, development to decline, in health and in disease. It covers the whole nervous system, with a primary focus on the brain. 
+* Simply put, neuroscience is the study of the nervous system that ranges from structure to function, development to decline, in health and in disease. It covers the whole nervous system, with a primary focus on the brain. 
 
 ## Part A: existing technology
 
@@ -20,9 +20,9 @@ Topic: **Neuroscience**
 
 * Google search: "Neuroscience software"
 * 2nd app: **The Journal of Neuroscience**
-    *Access to the official journal of the Society for Neuroscience through this app.
-    *Published papers covering a range of topics related to the nervous system.
-    * available for iPad, not verified for MacOS
+    * Access to the official journal of the Society for Neuroscience through this app.
+    * Published papers covering a range of topics related to the nervous system.
+    * Available for iPad, not verified for macOS
 * 3rd app: **Neuroscience**
    * https://apps.apple.com/us/app/neuroscience/id6752828076
 ##### Hardware
