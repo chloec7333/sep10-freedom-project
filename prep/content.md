@@ -31,15 +31,16 @@ Topic: **Neuroscience**
       * What researchers have discovered through experiments.
   * It is free
   * Runs on all hardwares
-  * logo : [<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/4fc376db-949f-487d-81ba-be88317998a7" />](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbrain-map.org%2F&ved=0CBcQjRxqFwoTCOD-w77S55cDFQAAAAAdAAAAABA-&opi=89978449)
+  * logo : (https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbrain-map.org%2F&ved=0CBcQjRxqFwoTCOD-w77S55cDFQAAAAAdAAAAABA-&opi=89978449)
 * 3rd software:3D Slicer
-  * It is free.
+  * https://download.slicer.org
+  * It is free
   * Open-source medical imaging program used to visualize, process, and analyze medical images, including MRI and CT scans of the brain.
   * Neuroscientists use brain imaging to investigate brain structures, development, and changes associated with neurological conditions.
   * The software allows users to examine real brain scans and better understand the physical organization of the brain.
   * 3D Slicer runs on modern Windows, macOS, and a variety of Linux distributions.
-  * https://download.slicer.org
   * logo: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdownload.slicer.org%2F&ved=0CBcQjRxqFwoTCJCcjKLS55cDFQAAAAAdAAAAABA9&opi=89978449
+    
 ##### Hardware
 https://brain-map.org/bkp/experiment/hardware
 * Tech
