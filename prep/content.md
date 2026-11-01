@@ -31,7 +31,7 @@ Topic: **Neuroscience**
       * What researchers have discovered through experiments.
   * It is free
   * Runs on all hardwares
-  * logo : (https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbrain-map.org%2F&ved=0CBcQjRxqFwoTCOD-w77S55cDFQAAAAAdAAAAABA-&opi=89978449)
+  * Logo: (https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbrain-map.org%2F&ved=0CBcQjRxqFwoTCOD-w77S55cDFQAAAAAdAAAAABA-&opi=89978449)
     
 * 3rd software: 3D Slicer
   * https://download.slicer.org
