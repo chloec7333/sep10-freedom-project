@@ -2,7 +2,7 @@
 Topic: **Neuroscience**
 
 ## Overview/Introduction/Context
-* Simply put, neuroscience is the study of the nervous system, ranging from how the nervous system develops to its structure and what it does. It covers the whole nervous system, with a primary focus on the brain. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Traditionally, neuroscience has been seen as a branch of biology, but it has grown to encompass a wide range of interdisciplinary fields that work together toward researching brain function at multiple levels of investigation.
+* Simply put, neuroscience is the study of the nervous system, ranging from how the nervous system develops to its structure and what it does. It covers the whole nervous system, with a primary focus on the brain. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Technology is essential to neuroscience because it allows scientists to study how the brain and nervous system function. Technologies such as MRI scans, EEGs, artificial intelligence, and brain-computer interfaces help researchers observe brain activity, understand neurological disorders, study memory and behavior, and develop treatments.
 
 ## Part A: Existing technology
 
@@ -48,6 +48,6 @@ https://brain-map.org/bkp/experiment/hardware
   * Detail
   * [image text](image URL)
 
-## Part B: possible future technology
+## Part B: Possible future technology
 * Idea
   * Detail
