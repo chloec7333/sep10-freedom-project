@@ -43,11 +43,11 @@ Topic: **Neuroscience**
   * logo: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdownload.slicer.org%2F&ved=0CBcQjRxqFwoTCJCcjKLS55cDFQAAAAAdAAAAABA9&opi=89978449
     
 ##### Hardware
-https://brain-map.org/bkp/experiment/hardware
-* Tech
-  * Detail
-  * [image text](image URL)
-
+* Google search: "Neuroscience hardware"
+* https://brain-map.org/bkp/experiment/hardware
+* Nueropixels Probes
+  * Next-generation electrodes that record the activity of hundreds of neurons in the brain.
+  * Neuropixels probes take advantage of CMOS technology to pack nearly 1000 electrodes onto a shank thinner than a human hair.
 ## Part B: Possible future technology
 * Idea
   * Detail
