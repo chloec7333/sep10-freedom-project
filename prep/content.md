@@ -46,8 +46,18 @@ Topic: **Neuroscience**
 * Google search: "Neuroscience hardware"
 * https://brain-map.org/bkp/experiment/hardware
 * Nueropixels Probes
-  * Next-generation electrodes that record the activity of hundreds of neurons in the brain.
+  * Very small electronic devices that scientists place inside brain tissue to record electrical signals from many brain cells at once.
   * Neuropixels probes take advantage of CMOS technology to pack nearly 1000 electrodes onto a shank thinner than a human hair.
+  * It can : 
+    * Records electrical signals from neurons (brain cells).
+    * Helps scientists understand how brain cells communicate.
+    * Can record activity from different parts of the brain.
+    * Helps researchers study memory, movement, and behavior.
+  * Comes in different versions, including Neuropixels 1.0, 2.0, and Neuropixels NHP.
+  * Designed, developed, and manufactured by imec (Interuniversity Microelectronics Centre), a nanoelectronics research and development center based in Leuven, Belgium.
+    * Neuropixels 1.0: ~$1,400 to $1,700 each
+    * Neuropixels 2.0: ~$1,800 each
+    * Neuropixels NHP (Non-Human Primate): ~$4,200 each
 ## Part B: Possible future technology
 * Idea
   * Detail
