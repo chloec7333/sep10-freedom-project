@@ -49,7 +49,7 @@ Topic: **Neuroscience**
   * Very small electronic devices that scientists place inside brain tissue to record electrical signals from many brain cells at once.
   * Neuropixels probes take advantage of CMOS technology to pack nearly 1000 electrodes onto a shank thinner than a human hair.
   * It can : 
-    * Records electrical signals from neurons (brain cells).
+    * Record electrical signals from neurons (brain cells).
     * Helps scientists understand how brain cells communicate.
     * Can record activity from different parts of the brain.
     * Helps researchers study memory, movement, and behavior.
