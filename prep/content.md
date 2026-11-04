@@ -55,6 +55,7 @@ Topic: **Neuroscience**
     * Helps researchers study memory, movement, and behavior.
   * Comes in different versions, including Neuropixels 1.0, 2.0, and Neuropixels NHP.
   * Designed, developed, and manufactured by imec (Interuniversity Microelectronics Centre), a nanoelectronics research and development center based in Leuven, Belgium.
+  * Cost: 
     * Neuropixels 1.0: ~$1,400 to $1,700 each
     * Neuropixels 2.0: ~$1,800 each
     * Neuropixels NHP (Non-Human Primate): ~$4,200 each
