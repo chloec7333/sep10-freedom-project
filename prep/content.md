@@ -64,11 +64,13 @@ Topic: **Neuroscience**
 * https://www.instituteforhumanneuroscience.org/equipment/#MEG
 * MEG Machine (Magnetoencephalography)
   * A MEG machine detects tiny magnetic signals produced by electrical activity in the brain.
+  * How: When tens of thousands of neurons fire together, they create weak ionic currents that generate measurable magnetic fields outside the head. 
   * What it does : 
     * Measures brain activity.
     * Helps scientists understand how different brain areas communicate.
     * Can help locate unusual brain activity.
-    * Helps researchers study memory, language, and attention.
+    * Helps researchers study memory and attention.
+    * Helps study real-time language processing, sensory perception, and developmental or psychiatric disorders.
   * https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.instituteforhumanneuroscience.org%2Fnews%2Fihn-in-omaha-world-herald&ved=0CBcQjRxqFwoTCPCOgbr475cDFQAAAAAdAAAAABB7&opi=89978449
   * Typically costs between $1 million and $6 million USD to purchase.
   * Multiple manufacturers. Some include MEGIN, Cerca Magnetics, Compumedics Neuroscan, and MAG4Health.
