@@ -48,7 +48,7 @@ Topic: **Neuroscience**
 * Nueropixels Probes
   * Very small electronic devices that scientists place inside brain tissue to record electrical signals from many brain cells at once.
   * Neuropixels probes take advantage of CMOS technology to pack nearly 1000 electrodes onto a shank thinner than a human hair.
-  * It can : 
+  * What it does : 
     * Record electrical signals from neurons (brain cells).
     * Helps scientists understand how brain cells communicate.
     * Can record activity from different parts of the brain.
@@ -59,6 +59,21 @@ Topic: **Neuroscience**
     * Neuropixels 1.0: ~$1,400 to $1,700 each
     * Neuropixels 2.0: ~$1,800 each
     * Neuropixels NHP (Non-Human Primate): ~$4,200 each
+    * https://cdn.prod.website-files.com/689cfbd308fa7373b604d290/68cc590b63c3ce2a00853c00_neuropixels_visual_coding_cms_images-04.png
+      
+* https://www.instituteforhumanneuroscience.org/equipment/#MEG
+* MEG Machine (Magnetoencephalography)
+  * A MEG machine detects tiny magnetic signals produced by electrical activity in the brain.
+  * What it does : 
+    * Measures brain activity.
+    * Helps scientists understand how different brain areas communicate.
+    * Can help locate unusual brain activity.
+    * Helps researchers study memory, language, and attention.
+  * https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.instituteforhumanneuroscience.org%2Fnews%2Fihn-in-omaha-world-herald&ved=0CBcQjRxqFwoTCPCOgbr475cDFQAAAAAdAAAAABB7&opi=89978449
+  * Typically costs between $1 million and $6 million USD to purchase.
+  * Multiple manufacturers. Some include MEGIN, Cerca Magnetics, Compumedics Neuroscan, and MAG4Health.
+  * Scans must take place inside a magnetically shielded room (MSR) to block out environmental noise from external electrical and magnetic sources.
+  
 ## Part B: Possible future technology
 * Idea
   * Detail
