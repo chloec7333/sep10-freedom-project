@@ -75,6 +75,24 @@ Topic: **Neuroscience**
   * Typically costs between $1 million and $6 million USD to purchase.
   * Multiple manufacturers. Some include MEGIN, Cerca Magnetics, Compumedics Neuroscan, and MAG4Health.
   * Scans must take place inside a magnetically shielded room (MSR) to block out environmental noise from external electrical and magnetic sources.
+ 
+* Functional Near-Infrared Spectroscopy (fNIRS)
+  * A non-invasive neuroscience device that uses light to measure changes in blood oxygen levels in the brain.
+  * It helps researchers understand which areas of the brain become more active during activities such as talking, reading, thinking, and moving.
+  * When a part of the brain becomes more active, it needs more oxygen. Blood carries that oxygen to brain tissue.
+  * fNIRS shines near-infrared light through the scalp and measures how much light comes back. This helps estimate changes in oxygen-rich and oxygen-poor blood in the brain.
+  * Researchers use this information to study brain activity.
+  * Advantages:
+    * Does not require surgery.
+    * Does not use radiation.
+    * Allows people to sit, stand, and sometimes walk during experiments.
+    * Can be used with children and infants.
+  * Cost:
+    * Low-Cost / Light Clinical Research Systems: $10,000 to $40,000
+    * Mid-Range Research Systems: $40,000 to $120,000
+    * High-Density / Advanced Research Systems: $120,000 to $400,000+
+    * Clinical-Grade or Integrated Suites: $200,000 to $600,000+
+  * NIRx Medical Technologies is a leading manufacturer of fNIRS systems
   
 ## Part B: Possible future technology
 * Idea
