@@ -96,7 +96,16 @@ Topic: **Neuroscience**
     * High-Density / Advanced Research Systems: $120,000 to $400,000+
     * Clinical-Grade or Integrated Suites: $200,000 to $600,000+
   * NIRx Medical Technologies is a leading manufacturer of fNIRS systems
-  
+
+* Searches
+   * Google Search: "Neuroscience apps"
+   * Google search: "Neuroscience software"
+   * Google search: "Neuroscience hardware"
+ 
+* Links
+   * https://brain-map.org/bkp/experiment/hardware
+   * https://www.instituteforhumanneuroscience.org/equipment
 ## Part B: Possible future technology
 * Idea
   * Detail
+  * 
