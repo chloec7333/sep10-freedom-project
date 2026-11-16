@@ -1,7 +1,17 @@
 # Entry 2
-##### X/X/XX
+##### 11/16/2026
 
-Text
+## Research Software and Hardware & Synthesis Material
+
+
+## Engineering Design Process
+
+
+## Skills
+
+
+## Next Steps
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
