@@ -10,6 +10,7 @@ Topic: **Neuroscience**
 
 ##### Software
 * **Neuronify**
+* https://www.scientifica.uk.com/neurowire/best-mobile-apps-for-neuroscientists
   * Neuronify allows you to investigate how neurons and neural networks behave. Use it to explore connections between neurons and how changes to a single connection can affect entire networks and lead to behavioural changes.
   * Available on Google Play and the Apple App Store
   * It is free
@@ -54,6 +55,7 @@ Topic: **Neuroscience**
   * Logo: (https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbrain-map.org%2F&ved=0CBcQjRxqFwoTCOD-w77S55cDFQAAAAAdAAAAABA-&opi=89978449)
 
 * **3D Slicer**
+* website I found : https://www.neurologylive.com/view/top-10-neurology-apps?slide=5
   * https://download.slicer.org
   * It is free
   * Open-source medical imaging program used to visualize, process, and analyze medical images, including MRI and CT scans of the brain.
@@ -105,6 +107,8 @@ Topic: **Neuroscience**
 * Links
    * https://brain-map.org/bkp/experiment/hardware
    * https://www.instituteforhumanneuroscience.org/equipment
+   * https://www.neurologylive.com/view/top-10-neurology-apps?slide=5 (3D Brain)
+   * https://www.scientifica.uk.com/neurowire/best-mobile-apps-for-neuroscientists (Neuronify)
 ## Part B: Possible future technology
 * Idea
   * Detail
