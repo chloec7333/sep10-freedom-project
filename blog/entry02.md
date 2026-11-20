@@ -2,7 +2,11 @@
 ##### 11/16/2026
 
 ## Research Software and Hardware & Synthesis Material
-For this entry, we had to research the problem, which for me is the field of neuroscience. 
+For this entry, we had to research the problem, which for me is the field of neuroscience. We first started with 2 different categories, software and hardware. 
+
+#### Software
+
+#### Hardware
 
 ## Engineering Design Process
 
