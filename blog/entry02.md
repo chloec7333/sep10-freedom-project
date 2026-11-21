@@ -1,4 +1,4 @@
-# Entry 2
+# Entry 2 : Research and Synthesis
 ##### 11/16/2026
 
 ## Research Software and Hardware & Synthesis Material
