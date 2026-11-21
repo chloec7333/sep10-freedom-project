@@ -6,6 +6,7 @@ For this entry, we had to research the problem, which for me is the field of neu
 
 #### Software
 For software, I first searched up ¨Neuroscience apps¨. I looked through some websites and I found 2 that stood out to me. The two of these websites have a list of apps that could be used in neuroscience. The first app I found was **Neuronify**, which allows users to learn about neurons and neural networks in the brain and the user is easily create and explore neural networks in a plug-and-play simulation environment. 
+I found this app while looking through [Scientifica: Best mobile apps for neuroscientists](https://www.scientifica.uk.com/neurowire/best-mobile-apps-for-neuroscientists)
 #### Hardware
 
 ## Engineering Design Process
@@ -15,7 +16,7 @@ For software, I first searched up ¨Neuroscience apps¨. I looked through some w
 
 
 ## Next Steps
-My next step is to start brainstorming of innovations or possible solutions in the neuroscience field that we could possibly have in the future, and I hope that my creativity and imagination shows while working on this project!
+My next step is to start brainstorming of innovations or possible solutions in the neuroscience field that we could possibly have in the future, and I am excited to see what I come up with!
 
 [Previous](entry01.md) | [Next](entry03.md)
 
