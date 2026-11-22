@@ -30,6 +30,8 @@ After finding different software and hardwares, we had to come up with ways to o
 At this stage, I am at the step of researching the problem in the engineering design process. I first searched for different software and hardware innovations in the field of neuroscience. And after, I synthesized what I found during my research into categories I thought was best. The next stage in the engineering design process is to brainstorm possible solutions. So, I need to think of a new innovations and technologies that could possibly be used in the field of neuroscience in the future. 
 
 ## Skills
+Some skills I have learned from this assignment is **how to read** and **time management**.
+
 
 
 ## Next Steps
