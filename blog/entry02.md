@@ -1,7 +1,7 @@
 # Entry 2 : Research and Synthesize
 ##### 11/16/2026
 
-## Research Software and Hardware & Synthesize Material
+## Content: Research & Synthesize
 For this entry, we had to research the problem, which for me is the field of neuroscience. We first started with 2 different categories, software and hardware, and later synthesize our material. 
 
 #### Software
@@ -27,7 +27,7 @@ After finding different software and hardwares, we had to come up with ways to o
 * fNIRS ( hardware )
   
 ## Engineering Design Process
-At this stage, I am at the step of researching the problem in the engineering design process. I first searched for different software and hardware innovations in the field of neuroscience. And after, I synthesized what I found during my research. The next stage in the engineering design process is to brainstorm possible solutions. So, I need to think of a new innovations and technologies that could possibly be used in neuroscience in the future. 
+At this stage, I am at the step of researching the problem in the engineering design process. I first searched for different software and hardware innovations in the field of neuroscience. And after, I synthesized what I found during my research into categories I thought was best. The next stage in the engineering design process is to brainstorm possible solutions. So, I need to think of a new innovations and technologies that could possibly be used in the field of neuroscience in the future. 
 
 ## Skills
 
