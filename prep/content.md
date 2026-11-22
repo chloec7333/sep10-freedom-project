@@ -107,7 +107,6 @@ Topic: **Neuroscience**
 * Links
    * https://brain-map.org/bkp/experiment/hardware
    * https://www.instituteforhumanneuroscience.org/equipment
-   * https://www.neurologylive.com/view/top-10-neurology-apps?slide=5 (3D Brain)
    * https://www.scientifica.uk.com/neurowire/best-mobile-apps-for-neuroscientists (Neuronify)
 ## Part B: Possible future technology
 * Idea
