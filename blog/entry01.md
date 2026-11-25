@@ -19,7 +19,7 @@ One skill I learned while working on this project is logical reasoning because w
 While researching for this project, we had to search on google for different articles in order to learn more about our different topics. In order to find accurate and specific articles that we wanted, we needed key words like "technology" and "innovations". An example from when I was researching about neuroscience is when I searched up "nueroscience computer science", but the aricles were not really what I was looking for. It gave more articles about computational nueroscience, but I was looking more for the innovations and technology that is used in neuroscience. So I changed my search to "neuroscience and technology" which gave me results that I was hoping to find.
 
 ## Next Steps
-My next step is to start researching the inovations we currently have in the neuroscience field, which I hope to be exciting and inetersting!
+My next step is to start researching the innovations we currently have in the neuroscience field, which I hope to be exciting and interesting!
 
 [Next](entry02.md)
 
